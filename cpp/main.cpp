@@ -1,4 +1,4 @@
-#include "./exercises/0-Introduction.cpp"
+#include "./exercises/0-Introduction.h"
 
 int main()
 {
